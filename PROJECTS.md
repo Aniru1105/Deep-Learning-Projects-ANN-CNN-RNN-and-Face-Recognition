@@ -3,20 +3,24 @@
 ### 1. Artificial Neural Network (ANN)  
 - **Goal:** Classify structured dataset using ANN  
 - **Highlights:** Dense layers, dropout, sigmoid/softmax outputs  
-- **Outcome:** Achieved accurate classification  
+- **Outcome:** Achieved accurate classification
+- **Project Link** - [ANN.ipynb](Artificial_Nueral_Network.ipynb)
 
 ### 2. Convolutional Neural Network (CNN)  
 - **Goal:** Image classification  
 - **Highlights:** Image augmentation, convolution, pooling, dropout  
-- **Outcome:** High classification accuracy on validation set  
+- **Outcome:** High classification accuracy on validation set
+- - **Project Link** - [imageclassifier.ipynb](Convolutional_Neural_Network.ipynb)
 
 ### 3. Recurrent Neural Network (RNN with LSTM)  
 - **Goal:** Time series prediction  
 - **Highlights:** Data scaling, sequence generation, LSTM layers  
-- **Outcome:** Robust forecasting performance  
+- **Outcome:** Robust forecasting performance
+- - **Project Link** - [Recurrent_Neural_Network.ipynb](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/main/Recurrent_Neural_Network%20(1).ipynb)
 
 ### 4. Face Recognition System  
 - **Goal:** Real-time face detection & recognition  
 - **Highlights:** OpenCV preprocessing + CNN classification  
-- **Outcome:** Successfully identified and recognized faces in real time  
+- **Outcome:** Successfully identified and recognized faces in real time
+- - **Project Link** - [Face_recog.ipynb](Face_Recog.ipynb)
 
