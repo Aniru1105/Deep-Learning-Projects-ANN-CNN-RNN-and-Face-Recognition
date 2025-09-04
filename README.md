@@ -20,8 +20,13 @@ The projects demonstrate applications of Artificial Neural Networks (ANN), Convo
 - Delivered strong predictive performance on sequential data  
 
 ## 📂 Repository Structure  
-See [PROJECTS.md](PROJECTS.md) for detailed breakdown.
-See [REQUIREMENTS.md](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/main/REQUIREMENTS.txt) for Requirements details .
+- See [PROJECTS.md](PROJECTS.md) for detailed breakdown.
+- See [REQUIREMENTS.md](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/main/REQUIREMENTS.txt) for Requirements details .
 
+## 📂 DataSet details :-
+- ANN Dataset : 
+- CNN Dataset :
+- RNN Dataset :
+- Face Recoginiton :
 ---
  
