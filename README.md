@@ -24,9 +24,9 @@ The projects demonstrate applications of Artificial Neural Networks (ANN), Convo
 - See [REQUIREMENTS.md](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/main/REQUIREMENTS.txt) for Requirements details .
 
 ## 📂 DataSet details :-
-- ANN Dataset : [Churn_Modelling Dataset](Churn_Modelling.csv)
+- ANN Dataset : [Churn_Modelling Dataset](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/Datasets/Churn_Modelling.csv)
 - CNN Dataset :
-- RNN Dataset : [LSTM dataset](lstm)
+- RNN Dataset : [LSTM dataset](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/tree/Datasets/lstm)
 - Face Recoginiton :
 ---
  
