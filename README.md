@@ -26,7 +26,7 @@ The projects demonstrate applications of Artificial Neural Networks (ANN), Convo
 ## 📂 DataSet details :-
 - ANN Dataset : 
 - CNN Dataset :
-- RNN Dataset :
+- RNN Dataset : [LSTM dataset](lstm)
 - Face Recoginiton :
 ---
  
