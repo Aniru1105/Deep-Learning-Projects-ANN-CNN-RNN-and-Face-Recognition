@@ -25,8 +25,8 @@ The projects demonstrate applications of Artificial Neural Networks (ANN), Convo
 
 ## 📂 DataSet details :-
 - ANN Dataset : [Churn_Modelling Dataset](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/Datasets/Churn_Modelling.csv)
-- CNN Dataset :
+- CNN Dataset :[Cnn-Classifier](https://www.kaggle.com/datasets/vishallazrus/cat-vs-dog-image-classification-making-prediction)
 - RNN Dataset : [LSTM dataset](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/tree/Datasets/lstm)
-- Face Recoginiton :
+- Face Recoginiton :[Labelled faces in the wild ](https://www.kaggle.com/datasets/jessicali9530/lfw-dataset)
 ---
  
