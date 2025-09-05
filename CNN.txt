@@ -1,0 +1,36 @@
+Convolutional Neural Network (CNN)
+
+1. Introduction:
+Convolutional Neural Networks are specialized for image data. They automatically learn spatial hierarchies of features, such as edges, textures, and shapes, using convolutional filters. CNNs have revolutionized computer vision and are widely used in object detection, face recognition, and image classification.
+
+2. Architecture:
+- Convolution Layers:
+  Apply filters (kernels) to input images, extracting feature maps that highlight edges, corners, and patterns.
+- Activation Functions:
+  ReLU used after each convolution to introduce nonlinearity.
+- Pooling Layers:
+  Downsample feature maps using max pooling to reduce dimensionality while retaining important features.
+- Dropout Layers:
+  Prevent overfitting by randomly disabling neurons.
+- Dense Layers:
+  Fully connected layers integrate extracted features for final decision-making.
+- Output Layer:
+  Uses sigmoid or softmax activation depending on binary or multi-class classification.
+
+3. Workflow:
+- Data Augmentation:
+  Applied transformations like rescaling, rotation, zoom, and flipping to improve generalization.
+- Model Construction:
+  Implemented CNN with TensorFlow/Keras including convolution, pooling, dropout, and dense layers.
+- Training:
+  Used batch training with stochastic gradient descent/Adam optimizer.
+- Evaluation:
+  Plotted accuracy/loss curves and validated performance on unseen images.
+
+4. Applications:
+- Handwritten digit recognition.
+- Medical image analysis (X-rays, MRI).
+- Object classification in real-world images.
+
+5. Results:
+The CNN project achieved strong validation accuracy, successfully distinguishing between classes in the dataset and demonstrating expertise in deep learning for computer vision.
