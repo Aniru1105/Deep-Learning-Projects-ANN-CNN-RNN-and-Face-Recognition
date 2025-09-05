@@ -5,22 +5,26 @@
 - **Highlights:** Dense layers, dropout, sigmoid/softmax outputs  
 - **Outcome:** Achieved accurate classification
 - **Project Link** - [ANN.ipynb](Artificial_Nueral_Network.ipynb)
+- ##### Detailed summary : []()
 
 ### 2. Convolutional Neural Network (CNN)  
 - **Goal:** Image classification  
 - **Highlights:** Image augmentation, convolution, pooling, dropout  
 - **Outcome:** High classification accuracy on validation set
-- - **Project Link** - [imageclassifier.ipynb](Convolutional_Neural_Network.ipynb)
+- **Project Link** - [imageclassifier.ipynb](Convolutional_Neural_Network.ipynb)
+- ##### Detailed summary : []()
 
 ### 3. Recurrent Neural Network (RNN with LSTM)  
 - **Goal:** Time series prediction  
 - **Highlights:** Data scaling, sequence generation, LSTM layers  
 - **Outcome:** Robust forecasting performance
-- - **Project Link** - [Recurrent_Neural_Network.ipynb](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/main/Recurrent_Neural_Network%20(1).ipynb)
+- **Project Link** - [Recurrent_Neural_Network.ipynb](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/main/Recurrent_Neural_Network%20(1).ipynb)
+- ##### Detailed summary : []() 
 
 ### 4. Face Recognition System  
 - **Goal:** Real-time face detection & recognition  
 - **Highlights:** OpenCV preprocessing + CNN classification  
 - **Outcome:** Successfully identified and recognized faces in real time
-- - **Project Link** - [Face_recog.ipynb](Face_Recog.ipynb)
+- **Project Link** - [Face_recog.ipynb](Face_Recog.ipynb)
+- ##### Detailed summary : []() 
 
