@@ -5,7 +5,7 @@
 - **Highlights:** Dense layers, dropout, sigmoid/softmax outputs  
 - **Outcome:** Achieved accurate classification
 - **Project Link** - [ANN.ipynb](Artificial_Nueral_Network.ipynb)
-- ##### Detailed summary : []()
+- ##### Detailed summary : [Ann.txt](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/Datasets/Ann.txt)
 
 ### 2. Convolutional Neural Network (CNN)  
 - **Goal:** Image classification  
