@@ -1,0 +1,35 @@
+Face Recognition System with CNN and OpenCV
+
+1. Introduction:
+Face recognition combines computer vision and deep learning to detect and identify human faces. It involves preprocessing images, extracting facial features, and classifying them into identities. Real-time systems require integration with OpenCV for video capture and image handling.
+
+2. Architecture:
+- Preprocessing:
+  Converted images to grayscale, normalized pixel values, resized inputs for model compatibility.
+- Convolutional Neural Network:
+  Extracted hierarchical facial features (edges, eyes, nose, mouth patterns).
+- Dense Layers:
+  Mapped extracted features to individual identities.
+- Output Layer:
+  Softmax activation function for multi-class face recognition.
+- Integration:
+  OpenCV used for real-time video stream processing and face detection.
+
+3. Workflow:
+- Dataset:
+  Organized labeled images of different individuals.
+- Model Construction:
+  Trained CNN model on face dataset.
+- Real-Time Recognition:
+  Used Haar cascades / DNN face detectors with OpenCV to detect faces and pass them to CNN for recognition.
+- Evaluation:
+  Measured recognition accuracy and tested in real-time video scenarios.
+
+4. Applications:
+- Security authentication (biometric login).
+- Attendance systems.
+- Surveillance and monitoring.
+- Social media tagging.
+
+5. Results:
+The face recognition project successfully identified and distinguished faces in real time with strong accuracy, proving effectiveness in practical computer vision tasks.
