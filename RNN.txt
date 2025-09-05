@@ -1,0 +1,33 @@
+Recurrent Neural Network (RNN) with LSTM
+
+1. Introduction:
+Recurrent Neural Networks are designed for sequential data, where the current output depends not only on the current input but also on previous inputs. Standard RNNs face vanishing/exploding gradient issues for long sequences, so Long Short-Term Memory (LSTM) networks are used to retain information over longer periods.
+
+2. Architecture:
+- Input Sequences:
+  Sequential datasets such as stock prices, natural language, or signals.
+- LSTM Layers:
+  Each LSTM cell has three gates (input, forget, and output) that control the flow of information and memory retention.
+- Dropout Layers:
+  Reduce overfitting by randomly disabling neurons during training.
+- Dense Output Layer:
+  Generates the final prediction (regression for continuous values or classification for sequence labels).
+
+3. Workflow:
+- Data Preprocessing:
+  Scaled data using MinMaxScaler, generated sequences (e.g., 60 timesteps → 1 output).
+- Model Construction:
+  Built LSTM model using TensorFlow/Keras with stacked layers.
+- Training:
+  Optimized with Adam optimizer and trained over multiple epochs.
+- Evaluation:
+  Compared predicted vs. actual values using RMSE, plotted graphs for trends.
+
+4. Applications:
+- Stock market prediction.
+- Weather forecasting.
+- Natural language processing (sentiment analysis, translation).
+- Speech recognition.
+
+5. Results:
+The RNN with LSTM project delivered accurate time-series forecasting, proving its capability in capturing temporal dependencies and predicting trends with minimal error.
