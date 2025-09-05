@@ -18,7 +18,7 @@
 - **Goal:** Time series prediction  
 - **Highlights:** Data scaling, sequence generation, LSTM layers  
 - **Outcome:** Robust forecasting performance
-- **Project Link** - [Recurrent_Neural_Network.ipynb](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/main/Recurrent_Neural_Network%20(1).ipynb)
+- **Project Link** - [Recurrent_Neural_Network.ipynb](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/main/Recurrent_Neural_Network%20(2).ipynb)
 - ##### Detailed summary : [RNN.txt](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition/blob/Datasets/RNN.txt) 
 
 ### 4. Face Recognition System  
